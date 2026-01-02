@@ -66,3 +66,9 @@ streamlit run app_ui.py
 -  git remote -v
 -  git push -u origin master
 
+**If you want to do some Changes of some file and update in github**
+
+- git add README.md
+- git commit -m "Update README with latest changes"
+- git push
+
