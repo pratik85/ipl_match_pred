@@ -56,6 +56,8 @@ streamlit run app_ui.py
 **License & Contact**
 - For questions or improvements, open an issue or contact the project owner.
 
+** steps**
+
 -git add .
 -git commit -m "Initial IPL Match Predictor project"
 -git branch
