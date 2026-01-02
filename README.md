@@ -56,13 +56,13 @@ streamlit run app_ui.py
 **License & Contact**
 - For questions or improvements, open an issue or contact the project owner.
 
-** steps**
+**Steps**
 
--git add .
--git commit -m "Initial IPL Match Predictor project"
--git branch
--git status
--git remote add origin git@github.com:pratik85/ipl_match_pred.git
--git remote -v
--git push -u origin master
+-  git add .
+-  git commit -m "Initial IPL Match Predictor project"
+-  git branch
+-  git status
+-  git remote add origin git@github.com:pratik85/ipl_match_pred.git
+-  git remote -v
+-  git push -u origin master
 
